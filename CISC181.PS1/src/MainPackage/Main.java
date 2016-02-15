@@ -3,8 +3,10 @@ package MainPackage;
 public class Main {
 
 	public static void main(String[] args) {
+		/*
+		 * My Github account name: acucuzza
+		 */
 			
-		GibbonsB.HelloWorld();
+		CucuzzaA.HelloWorld();
 	}
-
 }
